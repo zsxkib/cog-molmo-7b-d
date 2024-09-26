@@ -1,6 +1,7 @@
 # Configuration for Cog ⚙️
 # Reference: https://cog.run/yaml
 
+image: "r8.im/zsxkib/molmo-7b-d"
 build:
   # set to true if your model requires a GPU
   gpu: true
