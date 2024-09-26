@@ -1,0 +1,6 @@
+transformers 
+torch 
+Pillow
+torchvision 
+einops
+accelerate
